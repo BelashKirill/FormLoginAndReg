@@ -1,0 +1,12 @@
+.warning-text {
+    color: #ff4c4c;
+}
+
+.br-warning {
+    border-color: #ff4c4c;
+}
+
+.wrap-button {
+  display: flex;
+  align-items: center;
+}
